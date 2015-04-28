@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: cs.arizona.edu.gephiplugins
+OpenIDE-Module-Localizing-Bundle: cs/arizona/edu/gephiplugins/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
